@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://seaforged.io/wp-content/uploads/2025/05/seaforged-logo-circle.png" alt="Seaforged" width="150"/>
+  <img src="https://seaforged.io/wp-content/uploads/2025/05/seaforged-logo-circle.png" alt="Seaforged" width="180"/>
 </p>
 
 <h1 align="center">Seaforged</h1>
@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/NDAA-Compliant-0A1628?style=flat-square&logo=shield&logoColor=white" alt="NDAA Compliant"/>
   <img src="https://img.shields.io/badge/Veteran-Owned-0A1628?style=flat-square&logo=united-states-minor-outlying-islands&logoColor=white" alt="Veteran Owned"/>
-  <img src="https://img.shields.io/badge/Open-Source-0A1628?style=flat-square&logo=github&logoColor=white" alt="Open Source"/>
   <img src="https://img.shields.io/badge/FAA-Part_107-0A1628?style=flat-square&logo=plane&logoColor=white" alt="FAA Part 107"/>
 </p>
 
@@ -28,10 +27,10 @@ We believe in building tools that matter and sharing them with the community tha
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **BS Tuner** | Desktop PID tuning app for Betaflight, INAV, and ArduPilot. Cross-platform (Windows/Mac/Linux). | Patent Pending |
+| **BS Tuner** | Desktop PID tuning app for Betaflight, INAV, and ArduPilot. Currently available on Windows. | Patent Pending |
 | **D-TECT-R** | Counter-drone detection using RF signal analysis and ML classification. | Enterprise |
 | **DEMAN JR** | Mesh networking firmware for ESP-32. Decentralized comms for field operations. | In Development |
-| **Analog Repeater** | Signal repeater for analog FPV video feeds. Extends range in challenging RF environments. | In Development |
+| **TRIDENT** | Analog FPV video repeater for search and rescue. ESP32-powered diversity switching. | In Development |
 
 ### 🔧 Services
 
@@ -46,7 +45,7 @@ We believe in building tools that matter and sharing them with the community tha
 ### 📫 Get in Touch
 
 - 🌐 **Website:** [seaforged.io](https://seaforged.io)
-- 📧 **Email:** info@seaforged.io
+- 📧 **Email:** [info@seaforged.io](mailto:info@seaforged.io)
 - 💼 **Government inquiries:** [Contact us](https://seaforged.io/contact) for NDAA-compliant solutions and pricing
 
 ---

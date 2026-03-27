@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://seaforged.io/wp-content/uploads/2025/03/seaforged-badge-logo.png" alt="Seaforged" width="120"/>
+<img src="https://raw.githubusercontent.com/Seaforged/.github/main/profile/assets/seaforged-logo.png" alt="Seaforged" width="200"/>
 
 # Seaforged
 
@@ -31,7 +31,8 @@ We believe in building tools that matter and sharing them with the community tha
 | **D-TECT-R** | Counter-drone detection using RF signal analysis and ML classification. | Enterprise |
 | **TIDENET** | Tactical Interconnected Decentralized Edge Network. Mesh networking for field operations. | In Development |
 | **TRIDENT** | Analog FPV video repeater for search and rescue. ESP32-powered diversity switching. | In Development |
-| **SENTRY-RF** | Passive drone RF detection + GNSS jamming/spoofing monitor for ESP32-S3. Open source. | In Development |
+| **[SENTRY-RF](https://github.com/Seaforged/Sentry-RF)** | Passive drone RF detection + GNSS jamming/spoofing monitor. Sub-GHz spectrum scanning, WiFi Remote ID, buzzer alerts. Validated against JUH-MAK-IN JAMMER. | Open Source |
+| **[JUH-MAK-IN JAMMER](https://github.com/seaforged-dev/Juh-Mak-In-Jammer)** | Drone signal test suite for validating counter-UAS detection. 9 RF/WiFi modes including ELRS, Crossfire, Remote ID, and multi-drone swarm simulation. | Open Source |
 
 ---
 

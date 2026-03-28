@@ -32,7 +32,7 @@ We believe in building tools that matter and sharing them with the community tha
 | **TIDENET** | Tactical Interconnected Decentralized Edge Network. Mesh networking for field operations. | In Development |
 | **TRIDENT** | Analog FPV video repeater for search and rescue. ESP32-powered diversity switching. | In Development |
 | **[SENTRY-RF](https://github.com/Seaforged/Sentry-RF)** | Passive drone RF detection + GNSS jamming/spoofing monitor. Sub-GHz spectrum scanning, WiFi Remote ID, buzzer alerts. Validated against JUH-MAK-IN JAMMER. | Open Source |
-| **[JUH-MAK-IN JAMMER](https://github.com/seaforged-dev/Juh-Mak-In-Jammer)** | Drone signal test suite for validating counter-UAS detection. 9 RF/WiFi modes including ELRS, Crossfire, Remote ID, and multi-drone swarm simulation. | Open Source |
+| **[JUH-MAK-IN JAMMER](https://github.com/Seaforged/Juh-Mak-In-Jammer)** | Drone signal test suite for validating counter-UAS detection. 9 RF/WiFi modes including ELRS, Crossfire, Remote ID, and multi-drone swarm simulation. | Open Source |
 
 ---
 

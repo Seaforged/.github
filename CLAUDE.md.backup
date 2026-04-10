@@ -1,0 +1,37 @@
+# Seaforged GitHub Organization Profile
+
+## Purpose
+
+This repository is the GitHub organization profile for Seaforged. The `profile/README.md` renders as the landing page at github.com/Seaforged.
+
+## Product Roster
+
+| Product | Type | Status | Repo |
+|---------|------|--------|------|
+| BS Tuner | Desktop PID tuning app | Patent Pending | bs-tuner |
+| D-TECT-R | Counter-drone RF detection/ML classification | Enterprise | (private) |
+| TIDENET | Mesh networking for field operations | In Development | (TBD) |
+| TRIDENT | ESP32 FPV video repeater | In Development | trident |
+| SENTRY-RF | Passive RF detection + GNSS monitoring | Open Source | sentry-rf |
+| JUH-MAK-IN JAMMER | Drone signal test suite | Open Source | juh-mak-in-jammer |
+
+## Company Identity
+
+- Veteran-owned (U.S. Navy)
+- NDAA-compliant defense/government solutions
+- FAA Part 107 certified
+- Made in USA
+
+## Required Skills & Workflow
+
+- **seaforged-brand** — Use for ALL visual updates. Enforces brand colors, typography, and logo placement.
+- **copywriting** — Use when updating product descriptions or marketing copy.
+- **seo** suite — Use when optimizing the profile for discoverability.
+- **document-skills** — Use for generating branded PDFs or presentations from this content.
+
+## Editing Rules
+
+- Always use the seaforged-brand skill when touching profile/README.md
+- Product descriptions must be concise (1-2 sentences each)
+- Keep the logo and badges at the top
+- Update product status when repos change

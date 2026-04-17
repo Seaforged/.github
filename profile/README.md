@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Seaforged/.github/main/profile/seaforged-wordmark.png" alt="Seaforged" width="400"/>
+  <img src="https://raw.githubusercontent.com/Seaforged/.github/main/profile/assets/seaforged-logo.png" alt="Seaforged" width="400"/>
 </p>
 
 <h1 align="center">Seaforged</h1>

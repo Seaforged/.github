@@ -1,17 +1,20 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Seaforged/.github/main/profile/seaforged-wordmark.png" alt="Seaforged" width="400"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/Seaforged/.github/main/profile/assets/seaforged-logo.png" alt="Seaforged" width="200"/>
+<h1 align="center">Seaforged</h1>
 
-# Seaforged
+<p align="center">
+  <strong>Mission-Ready Drone Technology</strong><br/>
+  Open-source flight tools · Counter-UAS systems · NDAA-compliant solutions
+</p>
 
-**Mission-Ready Drone Technology**  
-Open-source flight tools · Counter-UAS systems · NDAA-compliant solutions
-
-![NDAA Compliant](https://img.shields.io/badge/NDAA-Compliant-1a3a5c?style=flat-square)
-![Veteran Owned](https://img.shields.io/badge/Veteran-Owned-0A1628?style=flat-square)
-![FAA Part 107](https://img.shields.io/badge/FAA-Part%20107-00B4D8?style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/NDAA-Compliant-0A1628?style=flat-square" />
+  <img src="https://img.shields.io/badge/Veteran-Owned-0A1628?style=flat-square" />
+  <img src="https://img.shields.io/badge/FAA-Part%20107-00B4D8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Made%20in-the%20USA-E8893C?style=flat-square" />
+</p>
 
 ---
 
@@ -26,17 +29,18 @@ We believe in building tools that matter and sharing them with the community tha
 ## 📦 Products
 
 | Project | Description | Status |
-|---------|-------------|--------|
+|---|---|---|
 | **BS Tuner** | Desktop PID tuning app for Betaflight, INAV, and ArduPilot. Currently available on Windows. | Patent Pending |
-| **D-TECT-R** | Counter-drone detection using RF signal analysis and ML classification. | Enterprise |
-| **TIDENET** | Tactical Interconnected Decentralized Edge Network. Mesh networking for field operations. | In Development |
+| **D-TECT-R** | Counter-drone detection using passive RF signal analysis and ML classification. Four hardware tiers. | Enterprise |
+| **TIDENET** | Tactical Interconnected Decentralized Edge Network. Reticulum-based mesh networking for field operations. | In Development |
 | **TRIDENT** | Analog FPV video repeater for search and rescue. ESP32-powered diversity switching. | In Development |
-| **[SENTRY-RF](https://github.com/Seaforged/Sentry-RF)** | Passive drone RF detection + GNSS jamming/spoofing monitor. Sub-GHz spectrum scanning, WiFi Remote ID, buzzer alerts. Validated against JUH-MAK-IN JAMMER. | Open Source |
-| **[JUH-MAK-IN JAMMER](https://github.com/Seaforged/Juh-Mak-In-Jammer)** | Drone signal test suite for validating counter-UAS detection. 9 RF/WiFi modes including ELRS, Crossfire, Remote ID, and multi-drone swarm simulation. | Open Source |
+| **Seaforged mLRS** | NDAA-compliant dual-band radio link (2.4 GHz / 915 MHz) with intelligent failover via composite Link Health Score. Single-chip LR2021 design. | In Development |
+| [**SENTRY-RF**](https://github.com/Seaforged/Sentry-RF) | Passive drone RF detection + GNSS jamming/spoofing monitor. Sub-GHz spectrum scanning, WiFi Remote ID, buzzer alerts. Validated against JUH-MAK-IN JAMMER. | Open Source |
+| [**JUH-MAK-IN JAMMER**](https://github.com/Seaforged/Juh-Mak-In-Jammer) | Drone signal test suite for validating counter-UAS detection. 9 RF/WiFi modes including ELRS, Crossfire, Remote ID, and multi-drone swarm simulation. | Open Source |
 
 ---
 
-## 🛠️ Services
+## 🔧 Services
 
 - **Aerial Filming & Surveying** — Orthomosaic mapping, 3D terrain models, inspections
 - **Custom Drone Builds** — NDAA-compliant platforms built to your mission requirements
@@ -46,17 +50,17 @@ We believe in building tools that matter and sharing them with the community tha
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-0A1628?style=flat-square&logo=python&logoColor=00B4D8)
-![Rust](https://img.shields.io/badge/Rust-0A1628?style=flat-square&logo=rust&logoColor=E8893C)
-![React](https://img.shields.io/badge/React-0A1628?style=flat-square&logo=react&logoColor=00B4D8)
-![Tauri](https://img.shields.io/badge/Tauri-0A1628?style=flat-square&logo=tauri&logoColor=5B9BD5)
-![ESP-32](https://img.shields.io/badge/ESP--32-0A1628?style=flat-square&logo=espressif&logoColor=E8893C)
-![LoRa](https://img.shields.io/badge/LoRa-0A1628?style=flat-square&logoColor=white)
-![Betaflight](https://img.shields.io/badge/Betaflight-0A1628?style=flat-square&logoColor=white)
-![INAV](https://img.shields.io/badge/INAV-0A1628?style=flat-square&logoColor=white)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-0A1628?style=flat-square&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0A1628?style=flat-square&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A1628?style=flat-square&logo=fastapi&logoColor=00B4D8)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![ESP-32](https://img.shields.io/badge/ESP--32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-5B9BD5?style=flat-square)
+![Betaflight](https://img.shields.io/badge/Betaflight-00B4D8?style=flat-square)
+![INAV](https://img.shields.io/badge/INAV-5B9BD5?style=flat-square)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-E8893C?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-0A1628?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
@@ -68,8 +72,4 @@ We believe in building tools that matter and sharing them with the community tha
 
 ---
 
-<div align="center">
-
-NDAA Compliant · Veteran Owned · Made in the USA
-
-</div>
+<p align="center">NDAA Compliant · Veteran Owned · Made in the USA</p>

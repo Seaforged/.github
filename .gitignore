@@ -1,0 +1,7 @@
+# === SEAFORGED HARDENING (added 2026-06-11) ===
+.env
+.env.*
+*.env
+secrets.json
+credentials.json
+.anthropic

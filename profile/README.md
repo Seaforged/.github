@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Mission-Ready Drone Technology</strong><br/>
-  Open-source flight tools · Counter-UAS systems · NDAA-compliant solutions
+  Counter-UAS systems · Encrypted mesh communications · NDAA-compliant solutions
 </p>
 
 <p align="center">
@@ -22,21 +22,22 @@
 
 Seaforged builds purpose-driven drone technology for government, enterprise, and commercial operations. Founded by a U.S. Navy veteran, we engineer solutions from the ground up — firmware to airframe, software to signal processing.
 
-We believe in building tools that matter and sharing them with the community that helped us get here.
-
 ---
 
 ## 📦 Products
 
 | Project | Description | Status |
 |---|---|---|
-| **BS Tuner** | Desktop PID tuning app for Betaflight, INAV, and ArduPilot. Currently available on Windows. | Patent Pending |
-| **D-TECT-R** | Counter-drone detection using passive RF signal analysis and ML classification. Four hardware tiers. | Enterprise |
-| **TIDENET** | Tactical Interconnected Decentralized Edge Network. Reticulum-based mesh networking for field operations. | In Development |
-| **TRIDENT** | Analog FPV video repeater for search and rescue. ESP32-powered diversity switching. | In Development |
-| **Seaforged mLRS** | NDAA-compliant dual-band radio link (2.4 GHz / 915 MHz) with intelligent failover via composite Link Health Score. Single-chip LR2021 design. | In Development |
-| [**SENTRY-RF**](https://github.com/Seaforged/Sentry-RF) | Passive drone RF detection + GNSS jamming/spoofing monitor. Sub-GHz spectrum scanning, WiFi Remote ID, buzzer alerts. Validated against JUH-MAK-IN JAMMER. | Open Source |
-| [**JUH-MAK-IN JAMMER**](https://github.com/Seaforged/Juh-Mak-In-Jammer) | Drone signal test suite for validating counter-UAS detection. 9 RF/WiFi modes including ELRS, Crossfire, Remote ID, and multi-drone swarm simulation. | Open Source |
+| **BS Tuner** *(Buttery Smooth Tuner)* | Desktop PID tuning app for Betaflight, INAV, and ArduPilot (Windows). | Available · Patent Pending |
+| **D-TECT-R** | Counter-drone detection via passive RF signal analysis and ML classification, across multiple hardware tiers — plus **D-TECT-R Lite**, a software-only build for the HackRF One SDR. | In Development |
+| **SENTRY-RF** | Passive drone RF detection + GNSS jamming/spoofing monitor. Sub-GHz scanning, WiFi/BLE Remote ID, threat alerts. | In Development |
+| **Juh-Mak-In Jammer** | Counter-UAS test suite that emulates drone control-link and Remote-ID emissions to validate detection systems. | In Development |
+| **TIDENET** *(Tactical Interconnected Decentralized Edge Network)* | Reticulum-based encrypted mesh networking for field operations. | In Development |
+| **WAVE** *(Wireless Aerial Video Extender)* | Portable 5.8 GHz analog FPV video repeater for search and rescue. | In Development |
+| **Seaforged mLRS** | NDAA-compliant dual-band (2.4 GHz / 915 MHz) radio link with intelligent failover via a composite Link Health Score. Single-chip LR2021 design. | In Development |
+| **Maelstrom / SMPL** *(Seaforged Maelstrom Protocol Logic)* | One encrypted protocol unifying C2, telemetry, mesh networking, voice, text, file transfer, and position tracking. | In Development |
+| **CHASE** *(Can't Help All Sights Escape)* | Autonomous computer-vision counter-UAV FPV interceptor. | In Development |
+| **SAQ** *(Survey Anything Quickly)* | UAV-based aerial survey & inspection platform with AI/ML-optimized processing — automated airport-pavement condition assessment (ASTM D5340). | In Development |
 
 ---
 

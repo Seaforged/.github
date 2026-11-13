@@ -5,3 +5,7 @@
 secrets.json
 credentials.json
 .anthropic
+
+# Local agent scaffolding: keep out of the public profile repo
+.mex/
+CLAUDE.md.backup
